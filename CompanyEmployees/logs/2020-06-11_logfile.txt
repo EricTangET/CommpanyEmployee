@@ -1,0 +1,8 @@
+2020-06-11 21:23:54.2660 INFO info log message
+2020-06-11 21:23:54.2987 DEBUG debug log message
+2020-06-11 21:23:54.3113 WARN warn log message
+2020-06-11 21:23:54.3121 ERROR error log message
+2020-06-11 21:23:55.9890 INFO info log message
+2020-06-11 21:23:55.9901 DEBUG debug log message
+2020-06-11 21:23:55.9906 WARN warn log message
+2020-06-11 21:23:55.9906 ERROR error log message
