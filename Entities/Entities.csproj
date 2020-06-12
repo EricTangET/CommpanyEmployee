@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
+    <Folder Include="Configuration\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.5" />
